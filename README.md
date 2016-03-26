@@ -5,5 +5,8 @@ In this animation, a single bubble will bounce around the screen. However, it wi
 
 Something mysterious will happen when the mouse is pressed (and if it’s too much, you can undo the coolness by pressing a key)
 
+The Organized version is the latter edit to make it more readable
+
+
 Link to blog post:
 https://itp.nyu.edu/classes/icm-dano-spring2014/multiply-the-rainbow/
